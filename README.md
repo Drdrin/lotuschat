@@ -1,4 +1,4 @@
-O LotusChat é um software totalmente grátis que facilita o acesso às salas de bate-papo BOL. Dentre suas facilidades, o software ainda conta com algumas funções:
+ O LotusChat é um software totalmente grátis que facilita o acesso às salas de bate-papo BOL. Dentre suas facilidades, o software ainda conta com algumas funções:
 
 Conector
 Espie as salas com tempo indeterminado
